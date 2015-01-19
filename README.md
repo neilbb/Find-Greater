@@ -16,9 +16,9 @@ $ g++ findgreater.cpp -o findgreater
 
              10 
            /    \
-         8        7
-       /  \
-      2    1 
+          8      7
+         / \
+        2   1 
 
 ```
 ### Input:
