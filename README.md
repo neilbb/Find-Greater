@@ -1,6 +1,6 @@
 # Find-Greater
 
-Implementation of an algorithm that prints all the integers in a Max-Heap that are greater than or equal to n. 
+Implementation of an algorithm that prints all the integers in a Max-Heap that are greater or equal to n. 
 Complexity: O(k), where k is the number of integers greater than or equal to n.
 
 ### Building
