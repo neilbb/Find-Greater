@@ -11,7 +11,7 @@ $ g++ findgreater.cpp -o findgreater
 
   findgreater reads from stdin the size of max-heap followed by the integers in the max-heap and then the integer n.
 
-# Example:
+### Example:
 ```
 
              10 
@@ -21,7 +21,7 @@ $ g++ findgreater.cpp -o findgreater
       2    1 
 
 ```
-# Input
+### Input
 ``` 
 5
 10
@@ -30,8 +30,8 @@ $ g++ findgreater.cpp -o findgreater
 2
 1
 8
-
-Output:
+```
+### Output:
 10
 8
 ```
