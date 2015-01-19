@@ -21,7 +21,7 @@ $ g++ findgreater.cpp -o findgreater
       2    1 
 
 ```
-### Input
+### Input:
 ``` 
 5
 10
