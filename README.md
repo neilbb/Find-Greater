@@ -32,6 +32,7 @@ $ g++ findgreater.cpp -o findgreater
 8
 ```
 ### Output:
+```
 10
 8
 ```
